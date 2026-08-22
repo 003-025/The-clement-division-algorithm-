@@ -28,3 +28,4 @@ from decimal import Decimal, getcontext
 getcontext().prec = 200
 
 result = clement_division(12345678901234567890, 0.089)
+https://github.com/003-025/The-clement-division-algorithm-/blob/main/Clement_gpu.py
